@@ -1,0 +1,8 @@
+{
+	"prefix": ";",
+	"invitelink": "https://discordapp.com/oauth2/authorize?client_id=526647243466604564&permissions=16050240&scope=bot",
+	"table": "pop",
+	"db": "popdb",
+	"volumedb": "vlpop",
+	"prefixdb": "prefixpop"
+}
